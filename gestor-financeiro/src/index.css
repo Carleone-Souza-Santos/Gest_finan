@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #251c1c;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0; 
+  background-image: url('../src/public/assets/planFund.png'); 
+  background-size: cover; 
+  background-position: center center; 
+  background-attachment: fixed;
+}
